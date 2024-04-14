@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "7f64a4742dfe7da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53130c145ae0159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65886be681cd61b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N-ary computers, instead of binary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b9f5bb22bc3e64c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b58725e160ce2900",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d325983037730e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1673e4686d5b992e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95bbb98b496a5822",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9b3a8f6a528a558",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64ef5633f01c14d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b58df4a39571764a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b65f2b7f260df5d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9313fdca168ca46d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "N-ary computers, instead of binary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75da5dc7e8ca6132",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "N-ary computers, instead of binary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75de8feb245ad065",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f22da4c2baad58fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "N-ary computers, instead of binary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "65886be681cd61b9",
+  "lastOpenFiles": [
+    "Neutron_QCD_Animation.gif",
+    "Pasted image 20240414010824.png",
+    "Pasted image 20240414010816.png",
+    "README.md",
+    "N-ary computers, instead of binary.md",
+    "create a link.md"
+  ]
+}
