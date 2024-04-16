@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N-ary computers, instead of binary.md",
+                "file": "N-ary computers/N-ary computers, instead of binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N-ary computers, instead of binary.md",
+                "file": "N-ary computers/N-ary computers, instead of binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N-ary computers, instead of binary.md",
+                "file": "N-ary computers/N-ary computers, instead of binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N-ary computers, instead of binary.md"
+                "file": "N-ary computers/N-ary computers, instead of binary.md"
               }
             }
           }
@@ -160,13 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65886be681cd61b9",
+  "active": "95bbb98b496a5822",
   "lastOpenFiles": [
-    "Neutron_QCD_Animation.gif",
-    "Pasted image 20240414010824.png",
-    "Pasted image 20240414010816.png",
+    "N-ary computers",
+    "N-ary computers/Neutron_QCD_Animation.gif",
+    "N-ary computers/Pasted image 20240414010824.png",
+    "N-ary computers/Pasted image 20240414010816.png",
     "README.md",
-    "N-ary computers, instead of binary.md",
+    "N-ary computers/N-ary computers, instead of binary.md",
     "create a link.md"
   ]
 }
