@@ -10,3 +10,5 @@ The last photo is this GIF:
 Perhaps this civilization's people have constructed massless interceptors between quarks that read and pass on gluon information, and influence some aspect of surrounding gluons and quarks. This all could happen in, say, a neutron. It could then be possible to influence which quark will shoot a gluon or antigluon next.
 
 Anyway. Imagine if an information encoding system were based on a number different from 2. How would that change things?
+
+If a diode can be contained within a neutron, then a complete computer could exist in almost any form of non-exotic matter. Perhaps in people, and the energy required to read & manipulate quark/gluon states (since energy must be conserved) could be sourced from the body's energy. Ideally with a low energy requirement.
